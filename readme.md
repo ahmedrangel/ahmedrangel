@@ -1,1 +1,1 @@
-[![gists-readme](https://gists-readme.yizack.com/api?user=ahmedrangel)](https://gist.github.com/ahmedrangel)
+[![gists-readme](https://gists-readme.yizack.com/api?user=ahmedrangel&theme=dark)](https://gist.github.com/ahmedrangel)
