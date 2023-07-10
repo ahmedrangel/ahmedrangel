@@ -17,7 +17,7 @@
 [![Visual Basic](https://img.shields.io/badge/Visual%20Basic%20-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-### **Software Skills**
+### **Software Skills & OSs**
 [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
