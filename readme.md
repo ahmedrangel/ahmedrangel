@@ -29,6 +29,7 @@ Panama City, Panama \
 [![Cloudflare Pages](https://img.shields.io/badge/Pages-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://pages.cloudflare.com/)
 [![Vue.js](https://img.shields.io/badge/vue.js-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
 [![Nuxt](https://img.shields.io/badge/nuxt-0c0c0d.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=00dc82)](https://nuxt.com/)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 [![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-712cf9.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![jQuery](https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
