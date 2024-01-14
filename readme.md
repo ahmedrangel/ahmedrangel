@@ -15,7 +15,7 @@ La Chorrera, Panama \
 Panama City, Panama \
 *April 2019 — Present* 
 
-- Helping projects in favor of Esports and Gaming in Panama.
+- Plan and execute web projects focused on Esports and Gaming events in Panama to encourage and expand community participation.
 - Administration of the server, official website, and company's web domains.
 - Work alongside the CEOs and Graphic Designers to plan and create landing web pages built with PHP or Vue.js for promoting and exhibiting gaming tournaments.
 - Implement web forms for collecting tournament participants' data using MySQL.
