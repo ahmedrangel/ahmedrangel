@@ -62,13 +62,12 @@ Panama City, Panama \
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
-### **Databases**
+### **Databases & Cloud Storages**
 [![Cloudflare D1](https://img.shields.io/badge/D1-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://developers.cloudflare.com/d1/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 
-### **Cloud Storages**
 [![Cloudflare R2](https://img.shields.io/badge/R2-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://developers.cloudflare.com/r2/)
 [![cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white)](https://cloudinary.com/documentation/cloudinary_references)
 
