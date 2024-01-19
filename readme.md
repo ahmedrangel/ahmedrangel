@@ -48,6 +48,7 @@ Panama City, Panama \
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![DigitalOcean](https://img.shields.io/badge/digitalocean-0080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com)
 [![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Replit](https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
 [![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/)
 
 ### **Tools**
