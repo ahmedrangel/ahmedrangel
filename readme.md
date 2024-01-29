@@ -89,7 +89,5 @@ Panama City, Panama \
 # 📊 Github Stats
 
 [![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrangel&layout=compact&hide=python,visual+basic&theme=github_dark&border_color=30363d)](https://github.com/ahmedrangel)
-
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Ahmedrangel&show_icons=true&include_all_commits=false&theme=github_dark&border_color=30363d&count_private=true)](https://github.com/ahmedrangel)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedrangel&theme=github-dark-blue)](https://github.com/ahmedrangel)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedrangel&theme=github-dark-blue&border=30363d)](https://github.com/ahmedrangel)
