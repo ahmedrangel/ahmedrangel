@@ -57,9 +57,9 @@ Panama City, Panama \
 [![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/)
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
 [![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://www.postman.com/)
+[![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org)
 [![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.postman.com/)
+[![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 
 ### **Databases & Cloud Storages**
 [![Cloudflare D1](https://img.shields.io/badge/D1-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://developers.cloudflare.com/d1/)
