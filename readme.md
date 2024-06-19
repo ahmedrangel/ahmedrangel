@@ -61,7 +61,7 @@ Panama City, Panama \
 [![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 [![Chart.js](https://img.shields.io/badge/chart.js-ff6384?style=for-the-badge&logo=chart.js&logoColor=white)](https://www.chartjs.org)
-[![Google Adsense](https://img.shields.io/badge/google%20adsense-4285F4?style=for-the-badge&logo=google-adsense&logoColor=white)](https://adsense.google.com/start/)
+[![Google Adsense](https://img.shields.io/badge/google%20adsense-4285F4?style=for-the-badge&logo=google-adsense&logoColor=white)](https://adsense.google.com/start/)[![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) 
 
 ### **Databases & Cloud Storages**
 [![Cloudflare D1](https://img.shields.io/badge/D1-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://developers.cloudflare.com/d1/)
