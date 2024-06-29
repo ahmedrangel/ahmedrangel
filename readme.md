@@ -84,7 +84,7 @@ Panama City, Panama \
 [![discord-api](https://img.shields.io/badge/Discord%20api-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/developers/docs/intro)
 [![openai-api](https://img.shields.io/badge/OpenAI%20api-black.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/product)
 [![spotify-api](https://img.shields.io/badge/Spotify%20api-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://developer.spotify.com/)
-[![steam-api](https://img.shields.io/badge/Steam%20api-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://developer.valvesoftware.com/wiki/Steam_Web_API)
+[![steam-api](https://img.shields.io/badge/Steam%20api-1B2838?style=for-the-badge&logo=steam&logoColor=white)](https://developer.valvesoftware.com/wiki/Steam_Web_API)
 [![riot-games-api](https://img.shields.io/badge/Riot%20Games%20api-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)](https://developer.riotgames.com/)
 [![imgur-api](https://img.shields.io/badge/Imgur%20api-291765.svg?style=for-the-badge&logo=imgur&logoColor=1BB76E)](https://api.imgur.com/)
 [![cloudinary-api](https://img.shields.io/badge/Cloudinary%20api-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white)](https://cloudinary.com/documentation/cloudinary_references)
