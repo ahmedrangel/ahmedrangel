@@ -11,6 +11,10 @@ La Chorrera, Panama \
 *Feb 2010 — Dec 2015*
 
 ## 💼 Work Experience
+**Junior Software Developer** at **Ricardo Perez S.A** \
+Panama City, Panama
+*January 2025 - Present*
+
 **Full-Stack Developer and Administrator** at **Panama Esports Productions** \
 Panama City, Panama \
 *April 2019 — Present* 
