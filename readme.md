@@ -1,3 +1,18 @@
+## 💼 Work Experience
+**Junior Software Developer** at **Ricardo Perez S.A** \
+Panama City, Panama \
+*January 2025 — Present*
+
+**Full-Stack Developer and Administrator** at **Panama Esports Productions** *(Part Time)* \
+Panama City, Panama \
+*April 2019 — Present*
+
+- Plan and execute web projects focused on Esports and Gaming events in Panama to encourage and expand community participation.
+- Administration of the server, official website, and company's web domains.
+- Work alongside the CEOs and Graphic Designers to plan and create landing web pages built with PHP or Vue.js for promoting and exhibiting gaming tournaments.
+- Implement web forms for collecting tournament participants' data using MySQL.
+- Carry out any other programming or web design work for clients who contact the company looking for a personalized service.
+
 ## 🎓 Education
 
 **Universidad Tecnológica de Panamá** \
@@ -9,21 +24,6 @@ Panama City, Panama \
 Highschool diploma, Science \
 La Chorrera, Panama \
 *Feb 2010 — Dec 2015*
-
-## 💼 Work Experience
-**Junior Software Developer** at **Ricardo Perez S.A** \
-Panama City, Panama \
-*January 2025 — Present*
-
-**Full-Stack Developer and Administrator** at **Panama Esports Productions** *(Part Time)* \
-Panama City, Panama \
-*April 2019 — Present* 
-
-- Plan and execute web projects focused on Esports and Gaming events in Panama to encourage and expand community participation.
-- Administration of the server, official website, and company's web domains.
-- Work alongside the CEOs and Graphic Designers to plan and create landing web pages built with PHP or Vue.js for promoting and exhibiting gaming tournaments.
-- Implement web forms for collecting tournament participants' data using MySQL.
-- Carry out any other programming or web design work for clients who contact the company looking for a personalized service.
 
 ## 💡 Skills
 ### **Frontend Technologies**
