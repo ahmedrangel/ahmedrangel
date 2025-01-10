@@ -56,6 +56,7 @@ La Chorrera, Panama \
 [![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 [![Replit](https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
 [![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/)
+[![NetSuite](https://img.shields.io/badge/netsuite-3d6c81?style=for-the-badge&logo=netsuite&logoColor=white)](https://www.netsuite.com/)
 
 ### **Tools**
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
