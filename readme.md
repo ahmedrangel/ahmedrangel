@@ -1,5 +1,5 @@
 ## 💼 Work Experience
-**Junior Software Developer** at **Ricardo Perez S.A** \
+**Junior Software Developer** at **Ricardo Perez S.A.** \
 Panama City, Panama \
 *January 2025 — Present*
 
