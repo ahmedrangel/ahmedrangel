@@ -34,7 +34,7 @@ La Chorrera, Panama \
 [![Cloudflare Pages](https://img.shields.io/badge/CF%20Pages-F38020?style=for-the-badge&logo=Cloudflare-Pages&logoColor=white)](https://pages.cloudflare.com/)
 [![Vue.js](https://img.shields.io/badge/vue.js-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
 [![Nuxt](https://img.shields.io/badge/nuxt-020420.svg?style=for-the-badge&logo=nuxt&logoColor=00dc82)](https://nuxt.com/)
-![WXT](https://img.shields.io/badge/wxt-1b1b1f.svg?style=for-the-badge&logo=wxt)
+[![WXT](https://img.shields.io/badge/wxt-1b1b1f.svg?style=for-the-badge&logo=wxt)](https://wxt.dev)
 ![React](https://img.shields.io/badge/react-23272f.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 [![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-712cf9.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
