@@ -2,7 +2,7 @@
 **Junior Software Developer** at **Toyota Panama (Ricardo Perez S.A.)** \
 Panama City, Panama \
 *January 2025 — Present*
-- Develop scripts and customizations in NetSuite using SuiteScript to achieve project goals, creating solutions that align with each customer's needs.
+- Develop scripts and customizations in NetSuite using SuiteScript to achieve project goals, creating solutions that align with the company or each customer's needs.
 - Work directly with customers to understand their needs and translate requirements into effective technical solutions.
 - Create technical manuals for each development, providing clear implementation and future maintenance guidance.
 - Provide support in QA processes and ensure the validation of deliverables.
