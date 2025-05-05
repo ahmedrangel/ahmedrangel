@@ -2,14 +2,17 @@
 **Junior Software Developer** at **Toyota Panama (Ricardo Perez S.A.)** \
 Panama City, Panama \
 *January 2025 — Present*
+- Develop scripts and customizations in NetSuite using SuiteScript to achieve project goals, creating solutions that align with each customer's needs.
+- Work directly with customers to understand their needs and translate requirements into effective technical solutions.
+- Create technical manuals for each development, providing clear implementation and future maintenance guidance.
+- Provide support in QA processes and ensure the validation of deliverables.
 
 **Full-Stack Developer and Administrator** at **Panama Esports Productions** *(Part Time)* \
 Panama City, Panama \
 *April 2019 — Present*
-
 - Plan and execute web projects focused on Esports and Gaming events in Panama to encourage and expand community participation.
-- Administration of the server, official website, and company's web domains.
-- Work alongside the CEOs and Graphic Designers to plan and create landing web pages built with PHP or Vue.js for promoting and exhibiting gaming tournaments.
+- Administration of the server, official website, and the company's web domains.
+- Work alongside the CEOs and Graphic Designers to plan and create landing web pages built with PHP or Vue.js to promote and exhibit gaming tournaments.
 - Implement web forms for collecting tournament participants' data using MySQL.
 - Carry out any other programming or web design work for clients who contact the company looking for a personalized service.
 
