@@ -6,6 +6,7 @@ Panama City, Panama \
 - Work directly with customers to understand their needs and translate requirements into effective technical solutions.
 - Create technical manuals for each development, providing clear implementation and future maintenance guidance.
 - Provide support in QA processes and ensure the validation of deliverables.
+- Maintain and monitor deployed projects to guarantee proper operation.
 
 **Full-Stack Developer and Administrator** at **Panama Esports Productions** *(Part Time)* \
 Panama City, Panama \
