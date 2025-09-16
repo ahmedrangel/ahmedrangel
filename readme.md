@@ -107,6 +107,7 @@ La Chorrera, Panama \
 [![youtube-api](https://img.shields.io/badge/youtube%20api-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://developers.google.com/youtube/v3)
 [![github-api](https://img.shields.io/badge/github%20api-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en/rest)
 [![kick-api](https://img.shields.io/badge/kick%20api-24272c.svg?style=for-the-badge&logo=kick&logoColor=00e701)](https://docs.kick.com/)
+[![salesforce-api](https://img.shields.io/badge/salesforce%20api-00A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/apis)
 
 # 📊 GitHub Stats
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Ahmedrangel&show_icons=true&include_all_commits=false&theme=github_dark&border_color=30363d&count_private=true)](https://github.com/ahmedrangel)
