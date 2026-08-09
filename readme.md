@@ -3,7 +3,7 @@
 Panama City, Panama \
 *January 2025 — Present*
 - Develop and customize solutions across NetSuite and Salesforce to address business requirements and customer needs.
-- Work within a Scrum-based Agile environment, collaborating with Product Owners and QA throughout the software development lifecycle
+- Work within a Scrum-based Agile environment, collaborating with Product Owners and QA throughout the software development lifecycle.
 - Create technical documentation and manuals for each development, providing clear guidance for implementation, maintenance, and future enhancements.
 - Monitor and maintain deployed solutions to ensure system stability, reliability, and proper operation in production environments.
 
