@@ -2,11 +2,10 @@
 **Junior Software Developer** at **Toyota Panama (Ricardo Perez S.A.)** \
 Panama City, Panama \
 *January 2025 — Present*
-- Develop scripts and customizations in NetSuite using SuiteScript to achieve project goals, creating solutions that align with the company or each customer's needs.
-- Work directly with customers to understand their needs and translate requirements into effective technical solutions.
-- Create technical manuals for each development, providing clear implementation and future maintenance guidance.
-- Provide support in QA processes and ensure the validation of deliverables.
-- Maintain and monitor deployed projects to guarantee proper operation.
+- Develop and customize solutions across NetSuite and Salesforce to address business requirements and customer needs.
+- Work within a Scrum-based Agile environment, collaborating with Product Owners and QA throughout the software development lifecycle
+- Create technical documentation and manuals for each development, providing clear guidance for implementation, maintenance, and future enhancements.
+- Monitor and maintain deployed solutions to ensure system stability, reliability, and proper operation in production environments.
 
 **Full-Stack Developer and Administrator** at **Panama Esports Productions** *(Part Time)* \
 Panama City, Panama \
